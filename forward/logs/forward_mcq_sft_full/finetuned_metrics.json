@@ -1,0 +1,36 @@
+{
+  "accuracy": 0.8350253807106599,
+  "confusion_matrix": [
+    [
+      91,
+      6,
+      3,
+      5
+    ],
+    [
+      3,
+      74,
+      1,
+      4
+    ],
+    [
+      7,
+      11,
+      83,
+      3
+    ],
+    [
+      9,
+      8,
+      5,
+      81
+    ]
+  ],
+  "labels": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n           A       0.83      0.87      0.85       105\n           B       0.75      0.90      0.82        82\n           C       0.90      0.80      0.85       104\n           D       0.87      0.79      0.83       103\n\n    accuracy                           0.84       394\n   macro avg       0.84      0.84      0.83       394\nweighted avg       0.84      0.84      0.84       394\n"
+}
