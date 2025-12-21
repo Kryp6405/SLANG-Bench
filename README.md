@@ -2,6 +2,8 @@
 
 A benchmark and training pipeline for evaluating and **improving LLM robustness to modern slang**, using supervised fine-tuning, retrieval-augmented generation (RAG), and reinforcement learning (RL).
 
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://tinyurl.com/slang-bench-paper)
+
 ---
 
 ## 🌐 Motivation
